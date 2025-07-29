@@ -1,2 +1,10 @@
-# my-todo-app-31ad506b
-A beautiful todo application built with AI
+# My Todo App
+
+Built with AI assistance using Claude AI.
+
+## Getting Started
+
+```bash
+npm install
+npm start
+```
